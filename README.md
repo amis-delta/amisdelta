@@ -1,1 +1,1 @@
-# EtherDelta
+# Amis-Delta
