@@ -1,4 +1,4 @@
-# Amis-Delta
+# Amis Delta Dex
 
 This website => https://amis-delta.github.io/amisdelta/site
 
