@@ -14,10 +14,10 @@ What is Amis Delta Dex
 
 # Amis Delta Dex
 
-This is an experimental UI website to interact with the ED smart contract  => [https://amis-delta.github.io/amisdelta/site]https://amis-delta.github.io/amisdelta/site and the etherdelta.com API.
+This is an experimental UI website to interact with the ED smart contract  => [https://amis-delta.github.io/amisdelta/site](https://amis-delta.github.io/amisdelta/site) and the etherdelta.com API.
 
 Amis Delta Dex is part of the ERC20-AMIS Token Future, options and crypto derivatives Project.
 Amis Delta is a web front end designed to interact with ED smart contract powered by the ethereum blockchain.
 
 * The interface is configured to work with socket02.etherdelta.com
-* If needed raise an issue => [https://github.com/amis-delta/amisdelta]https://github.com/amis-delta/amisdelta
+* If needed raise an issue => [https://github.com/amis-delta/amisdelta](https://github.com/amis-delta/amisdelta)
